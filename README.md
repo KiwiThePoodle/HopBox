@@ -1,5 +1,7 @@
 ## HopBox
 
+Website Link: https://jhu-courses.herokuapp.com/
+
 HopBox is a start-up that brings an innovative solution to the storage needs of university students. It is a software solution for college students looking for storage near campus. The main product is a peer-to-peer web application similar to Airbnb. The application is mainly built on the MERN stack using JavaScript along with other tools such as the Mapbox API. HopBox was originally a class project for an entrepreneurship class, but we decided to take things further when we had success in a business plan competition. My team developed a minimum viable product for the class and then decided to enter the FastForward U Spark Program. We were awarded the first place prize fund, so we decided to continue working on the project and are continuously implementing additional features.
 
 The idea originated from a common pain point that many Hopkins undergraduates have which is not having affordable and convenient storage space for the summer when moving between dorms. Our proposed solution is a web application that allows underclassmen to rent storage space from upperclassmen who have off-campus apartments. We validated the problem through industry leaders and surveying our target audience and after seeing the severity of the issue, we began working toward our solution.
